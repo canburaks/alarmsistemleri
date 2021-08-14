@@ -7,10 +7,7 @@ sections:
     image_alt: App preview
     title: 'Alarm Sistemleri: İş yeri ve Ev Güvenlik Alarmları'
     content: "\_İş yeri, konut ve ev güvenliği için kullanılan alarm sistemleri hakkında\_ giriş niteliğinde bir rehber. İş yeri ve ev alarm sistemleri, tarihi, kullanımı, neden etkili oldukları gibi bir çok detaylı konuyu bulmanızı umuyorum.\n\n"
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
+    actions: []
   - section_id: features
     type: section_features
     background: gray
