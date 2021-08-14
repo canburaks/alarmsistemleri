@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: "Alarm Sistemleri\_İş yeri ve Ev Güvenlik Alarm Sistemleri"
+    title: "Alarm Sistemleri:\_ İş yeri ve Ev Güvenlik Alarm Sistemleri"
     content: "\_İş yeri, konut ve ev güvenliği için kullanılan alarm sistemleri hakkında\_ giriş niteliğinde bir rehber. İş yeri ve ev alarm sistemleri, tarihi, kullanımı, neden etkili oldukları gibi bir çok detaylı konuyu bulmanızı umuyorum.\n\n"
     actions:
       - label: Learn More
